@@ -1,6 +1,6 @@
 ### Eye-Able Assignment – Project Structure
 
-This repository contains two independent parts that map 1:1 to the assignment tasks.
+This repository contains 3 independent parts that map 1:1 to the assignment tasks.
 
 - **01_charts**: React + TypeScript app that visualizes the US population and lets users choose 3/5/10 years. (Aufgabe 1)
 - **02_api**: Bun + Elysia HTTP API with two endpoints, simple Bearer auth, and Docker setup. (Aufgabe 2)
